@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess-ai/static/css/main.caa037bf.css",
+    "main.js": "/chess-ai/static/js/main.15bf3d0a.js",
+    "static/js/453.33f4306b.chunk.js": "/chess-ai/static/js/453.33f4306b.chunk.js",
+    "index.html": "/chess-ai/index.html",
+    "main.caa037bf.css.map": "/chess-ai/static/css/main.caa037bf.css.map",
+    "main.15bf3d0a.js.map": "/chess-ai/static/js/main.15bf3d0a.js.map",
+    "453.33f4306b.chunk.js.map": "/chess-ai/static/js/453.33f4306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa037bf.css",
+    "static/js/main.15bf3d0a.js"
+  ]
+}

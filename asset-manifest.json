@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stepchess/static/css/main.caa037bf.css",
-    "main.js": "/stepchess/static/js/main.80c2f100.js",
+    "main.js": "/stepchess/static/js/main.c4264372.js",
     "static/js/453.33f4306b.chunk.js": "/stepchess/static/js/453.33f4306b.chunk.js",
     "index.html": "/stepchess/index.html",
     "main.caa037bf.css.map": "/stepchess/static/css/main.caa037bf.css.map",
-    "main.80c2f100.js.map": "/stepchess/static/js/main.80c2f100.js.map",
+    "main.c4264372.js.map": "/stepchess/static/js/main.c4264372.js.map",
     "453.33f4306b.chunk.js.map": "/stepchess/static/js/453.33f4306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caa037bf.css",
-    "static/js/main.80c2f100.js"
+    "static/js/main.c4264372.js"
   ]
 }
